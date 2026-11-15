@@ -28,4 +28,4 @@ $ ./random ; echo $?
 - it's funny
 
 ## get the original:
-This is obviously my spin on [this](https://github.com/c0rydoras/random.c) and I also just stole his assembly to generate the random number (had apply some patches tho).
+This is obviously my spin on [random.c](https://github.com/c0rydoras/random.c) and I also just stole his assembly to generate the random number (had to apply some patches tho).
