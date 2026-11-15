@@ -26,3 +26,6 @@ $ ./random ; echo $?
 - it's random because of undefined behaviour (undefined -> random, trust)
 - it's more secure than [xkcd 221](https://xkcd.com/221/) based rngs
 - it's funny
+
+## get the original:
+This is obviously my spin on [this](https://github.com/c0rydoras/random.c) and I also just stole his assembly to generate the random number (had apply some patches tho).
